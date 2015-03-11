@@ -1,0 +1,12 @@
+{
+  "name": "router",
+  "description": "A hashchange based frontend router, inspired by TJ Holowaychuk's page.js",
+  "version": "1.0.0",
+  "keywords": ["router", "page.js"],
+  "main": "index.js",
+  "dependencies": {
+    "ddxq-components/type": "1.0.0",
+    "ddxq-components/each": "1.0.0",
+    "ddxq-components/extend": "1.0.0"
+  }
+}
